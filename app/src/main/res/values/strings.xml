@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string name="api_url">https://run.mocky.io/v3/</string>
+    <string name="welcome_message">Welcome to this quiz app, please set your name below</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="please_choose_the_theme_of_the_quiz">Please choose the theme of the quiz</string>
+    <string name="start">Start</string>
+    <string name="histoire">Histoire</string>
+    <string name="sport">Sport</string>
+    <string name="next">Next</string>
+    <string name="back_to_themes_screen">Back to themes screen</string>
+    <string name="final_result">Hello %1$s, your score is %2$d</string>
+    <string name="set_name_error">Please set your name before starting</string>
+    <string name="name_key">name_key</string>
+    <string name="score_title">Your Score</string>
+    <string name="theme_title">Choose your theme</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="quiz_title">Quiz</string>
+
+</resources>
