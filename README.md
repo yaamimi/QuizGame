@@ -32,3 +32,4 @@ EndPoint: https://run.mocky.io/v3/369a0b8f-1b07-49cb-9119-74793f8926dd
 3. LifeCycle
 4. RxJava
 5. NavigationComponent
+6. Test
